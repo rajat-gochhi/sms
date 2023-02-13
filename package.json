@@ -2,7 +2,7 @@
     "name": "sms",
     "version": "1.0.0",
     "description": "",
-    "main": "Model.py",
+    "main": "model (1).pkl",
     "scripts": {
         "build": "echo \"No build specified\" && exit 1",
         "test": "echo \"No test specified\" && exit 1",
